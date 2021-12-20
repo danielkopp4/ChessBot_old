@@ -1,0 +1,5 @@
+/Users/danielkopp/Documents/projects/2021/new_chess/ChessLibary/CMakeFiles/rebuild_cache.dir
+/Users/danielkopp/Documents/projects/2021/new_chess/ChessLibary/CMakeFiles/edit_cache.dir
+/Users/danielkopp/Documents/projects/2021/new_chess/ChessLibary/CMakeFiles/chess_lib.dir
+/Users/danielkopp/Documents/projects/2021/new_chess/ChessLibary/pybind11/CMakeFiles/rebuild_cache.dir
+/Users/danielkopp/Documents/projects/2021/new_chess/ChessLibary/pybind11/CMakeFiles/edit_cache.dir
